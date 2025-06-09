@@ -1,0 +1,49 @@
+{
+  "image_path": "data\\images\\positive\\486669988_1218081920105069_1510869918476446014_n.jpg",
+  "image_width": 1040,
+  "image_height": 1040,
+  "annotations": [
+    {
+      "x": 593,
+      "y": 226,
+      "width": 235,
+      "height": 265,
+      "class": "scooter"
+    },
+    {
+      "x": 638,
+      "y": 220,
+      "width": 214,
+      "height": 225,
+      "class": "scooter"
+    },
+    {
+      "x": 701,
+      "y": 228,
+      "width": 174,
+      "height": 191,
+      "class": "scooter"
+    },
+    {
+      "x": 691,
+      "y": 220,
+      "width": 200,
+      "height": 166,
+      "class": "scooter"
+    },
+    {
+      "x": 751,
+      "y": 214,
+      "width": 140,
+      "height": 153,
+      "class": "scooter"
+    },
+    {
+      "x": 762,
+      "y": 226,
+      "width": 121,
+      "height": 117,
+      "class": "scooter"
+    }
+  ]
+}

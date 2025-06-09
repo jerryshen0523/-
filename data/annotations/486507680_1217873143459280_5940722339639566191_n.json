@@ -1,0 +1,28 @@
+{
+  "image_path": "data\\images\\positive\\486507680_1217873143459280_5940722339639566191_n.jpg",
+  "image_width": 1200,
+  "image_height": 1200,
+  "annotations": [
+    {
+      "x": 126,
+      "y": 403,
+      "width": 493,
+      "height": 747,
+      "class": "scooter"
+    },
+    {
+      "x": 673,
+      "y": 436,
+      "width": 477,
+      "height": 673,
+      "class": "scooter"
+    },
+    {
+      "x": 870,
+      "y": 441,
+      "width": 329,
+      "height": 637,
+      "class": "scooter"
+    }
+  ]
+}

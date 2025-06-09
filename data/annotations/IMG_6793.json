@@ -1,0 +1,49 @@
+{
+  "image_path": "data\\images\\positive\\IMG_6793.jpg",
+  "image_width": 4032,
+  "image_height": 3024,
+  "annotations": [
+    {
+      "x": 153,
+      "y": 469,
+      "width": 2173,
+      "height": 2456,
+      "class": "scooter"
+    },
+    {
+      "x": 1059,
+      "y": 606,
+      "width": 1729,
+      "height": 1986,
+      "class": "scooter"
+    },
+    {
+      "x": 1346,
+      "y": 602,
+      "width": 1633,
+      "height": 1783,
+      "class": "scooter"
+    },
+    {
+      "x": 1720,
+      "y": 619,
+      "width": 1380,
+      "height": 1604,
+      "class": "scooter"
+    },
+    {
+      "x": 1920,
+      "y": 631,
+      "width": 1168,
+      "height": 1513,
+      "class": "scooter"
+    },
+    {
+      "x": 2161,
+      "y": 619,
+      "width": 1010,
+      "height": 1342,
+      "class": "scooter"
+    }
+  ]
+}

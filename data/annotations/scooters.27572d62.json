@@ -1,0 +1,35 @@
+{
+  "image_path": "data\\images\\positive\\scooters.27572d62.jpg",
+  "image_width": 4752,
+  "image_height": 3168,
+  "annotations": [
+    {
+      "x": 2003,
+      "y": 333,
+      "width": 2748,
+      "height": 2831,
+      "class": "scooter"
+    },
+    {
+      "x": 1028,
+      "y": 259,
+      "width": 2988,
+      "height": 2905,
+      "class": "scooter"
+    },
+    {
+      "x": 729,
+      "y": 132,
+      "width": 1342,
+      "height": 3022,
+      "class": "scooter"
+    },
+    {
+      "x": 377,
+      "y": 191,
+      "width": 798,
+      "height": 2973,
+      "class": "scooter"
+    }
+  ]
+}

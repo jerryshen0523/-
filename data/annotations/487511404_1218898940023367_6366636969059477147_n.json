@@ -1,0 +1,14 @@
+{
+  "image_path": "data\\images\\positive\\487511404_1218898940023367_6366636969059477147_n.jpg",
+  "image_width": 1200,
+  "image_height": 1200,
+  "annotations": [
+    {
+      "x": 149,
+      "y": 655,
+      "width": 339,
+      "height": 320,
+      "class": "scooter"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "image_path": "data\\images\\positive\\3.jpg",
+  "image_width": 1479,
+  "image_height": 1109,
+  "annotations": [
+    {
+      "x": 526,
+      "y": 356,
+      "width": 378,
+      "height": 687,
+      "class": "scooter"
+    },
+    {
+      "x": 248,
+      "y": 362,
+      "width": 294,
+      "height": 460,
+      "class": "scooter"
+    },
+    {
+      "x": 186,
+      "y": 361,
+      "width": 314,
+      "height": 419,
+      "class": "scooter"
+    },
+    {
+      "x": 155,
+      "y": 370,
+      "width": 243,
+      "height": 373,
+      "class": "scooter"
+    },
+    {
+      "x": 169,
+      "y": 373,
+      "width": 196,
+      "height": 301,
+      "class": "scooter"
+    }
+  ]
+}

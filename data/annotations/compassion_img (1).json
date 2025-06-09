@@ -1,0 +1,28 @@
+{
+  "image_path": "data\\images\\positive\\compassion_img (1).jpg",
+  "image_width": 561,
+  "image_height": 421,
+  "annotations": [
+    {
+      "x": 297,
+      "y": 120,
+      "width": 155,
+      "height": 199,
+      "class": "scooter"
+    },
+    {
+      "x": 123,
+      "y": 123,
+      "width": 83,
+      "height": 104,
+      "class": "scooter"
+    },
+    {
+      "x": 96,
+      "y": 120,
+      "width": 70,
+      "height": 93,
+      "class": "scooter"
+    }
+  ]
+}

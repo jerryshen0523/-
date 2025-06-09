@@ -1,0 +1,42 @@
+{
+  "image_path": "data\\images\\positive\\compassion_img.jpg",
+  "image_width": 469,
+  "image_height": 470,
+  "annotations": [
+    {
+      "x": 27,
+      "y": 77,
+      "width": 351,
+      "height": 393,
+      "class": "scooter"
+    },
+    {
+      "x": 155,
+      "y": 60,
+      "width": 241,
+      "height": 344,
+      "class": "scooter"
+    },
+    {
+      "x": 256,
+      "y": 19,
+      "width": 174,
+      "height": 218,
+      "class": "scooter"
+    },
+    {
+      "x": 315,
+      "y": 15,
+      "width": 124,
+      "height": 176,
+      "class": "scooter"
+    },
+    {
+      "x": 332,
+      "y": 3,
+      "width": 119,
+      "height": 163,
+      "class": "scooter"
+    }
+  ]
+}
